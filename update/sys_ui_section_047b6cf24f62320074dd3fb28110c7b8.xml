@@ -5,27 +5,41 @@
             <element>week_reference</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-09 04:52:44</sys_created_on>
-            <sys_id>0c7b28364f62320074dd3fb28110c716</sys_id>
+            <sys_created_on>2017-05-09 05:02:44</sys_created_on>
+            <sys_id>6abd60b64f62320074dd3fb28110c754</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-09 04:52:44</sys_updated_on>
+            <sys_updated_on>2017-05-09 05:02:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>task_name</element>
+            <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-09 04:52:44</sys_created_on>
-            <sys_id>807b28364f62320074dd3fb28110c717</sys_id>
+            <sys_created_on>2017-05-09 05:02:44</sys_created_on>
+            <sys_id>eabd60b64f62320074dd3fb28110c754</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-09 04:52:44</sys_updated_on>
+            <sys_updated_on>2017-05-09 05:02:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-09 05:02:44</sys_created_on>
+            <sys_id>6ebd60b64f62320074dd3fb28110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-09 05:02:44</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

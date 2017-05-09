@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="task week" max_length="40" name="x_71876_set_weekly_task_week" type="collection">
+    <element label="Task Week" max_length="40" name="x_71876_set_weekly_task_week" type="collection">
         <element audit="true" display="true" label="from date" mandatory="true" max_length="40" name="from_date" read_only="true" text_index="true" type="glide_date"/>
         <element audit="true" label="to date" mandatory="true" max_length="40" name="to_date" text_index="true" type="glide_date"/>
         <element audit="true" label="week number" mandatory="true" max_length="40" name="week_number" read_only="true" text_index="true" type="integer"/>
