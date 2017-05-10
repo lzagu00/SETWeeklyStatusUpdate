@@ -3,7 +3,7 @@
     <element label="Task Week" max_length="40" name="x_71876_set_weekly_task_week" type="collection">
         <element audit="true" label="From Date" mandatory="true" max_length="40" name="from_date" read_only="true" text_index="true" type="glide_date"/>
         <element audit="true" label="To Date" mandatory="true" max_length="40" name="to_date" text_index="true" type="glide_date"/>
-        <element audit="true" label="Week Number" mandatory="true" max_length="40" name="week_number" read_only="true" text_index="true" type="integer"/>
-        <element audit="true" display="true" label="Year" mandatory="true" max_length="40" name="year" text_index="true" type="integer"/>
+        <element audit="true" display="true" label="Week Number" mandatory="true" max_length="40" name="week_number" text_index="true" type="integer"/>
+        <element audit="true" label="Year" mandatory="true" max_length="40" name="year" text_index="true" type="integer"/>
     </element>
 </database>
