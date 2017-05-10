@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="sys_import_set_row" label="week import table" max_length="40" name="x_71876_set_weekly_week_import_table" type="collection">
-        <element attributes="import_attribute_name=from date" label="from date" max_length="40" name="u_from_date" type="glide_date"/>
-        <element attributes="import_attribute_name=to date" label="to date" max_length="40" name="u_to_date" type="glide_date"/>
-        <element attributes="import_attribute_name=week number" label="week number " max_length="40" name="u_week_number" type="integer"/>
-    </element>
-</database>

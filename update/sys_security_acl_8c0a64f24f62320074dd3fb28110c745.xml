@@ -14,7 +14,7 @@
         <sys_created_on>2017-05-09 04:46:27</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>8c0a64f24f62320074dd3fb28110c745</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_71876_set_weekly_task</sys_name>
         <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
         <sys_policy/>
@@ -22,7 +22,7 @@
         <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
         <sys_update_name>sys_security_acl_8c0a64f24f62320074dd3fb28110c745</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 04:46:27</sys_updated_on>
+        <sys_updated_on>2017-05-10 01:24:15</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

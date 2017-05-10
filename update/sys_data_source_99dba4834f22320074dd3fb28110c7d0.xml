@@ -3,19 +3,19 @@
     <sys_data_source action="INSERT_OR_UPDATE">
         <category/>
         <connection_timeout>0</connection_timeout>
-        <connection_url>attachment://sys_data_source:ce5ed07e4f22320074dd3fb28110c76f/week_import_table.xls</connection_url>
+        <connection_url>attachment://sys_data_source:99dba4834f22320074dd3fb28110c7d0/sfwy_week_import_table.csv</connection_url>
         <connection_url_parameters/>
         <csv_delimiter/>
         <database_name/>
         <database_port/>
         <expand_node_children>false</expand_node_children>
-        <file_path>week_import_table.xls</file_path>
+        <file_path>sfwy_week_import_table.csv</file_path>
         <file_retrieval_method>Attachment</file_retrieval_method>
-        <format>Excel</format>
+        <format>CSV</format>
         <glide_keystore>false</glide_keystore>
         <header_row>1</header_row>
         <import_set_table_label/>
-        <import_set_table_name>x_71876_set_weekly_week_import_table</import_set_table_name>
+        <import_set_table_name>x_71876_set_weekly_sfwy_week_import_table</import_set_table_name>
         <instance_name/>
         <jdbc_password/>
         <jdbc_server/>
@@ -25,7 +25,7 @@
         <ldap_target/>
         <maximum_rows/>
         <mid_server/>
-        <name>week_import_table.xls (Uploaded)</name>
+        <name>sfwy_week_import_table.csv (Uploaded)</name>
         <oracle_port>1521</oracle_port>
         <oracle_sid>orcl</oracle_sid>
         <properties/>
@@ -41,18 +41,18 @@
         <ssh_keyfile_path/>
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-05-09 03:55:31</sys_created_on>
+        <sys_created_on>2017-05-09 23:32:56</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>ce5ed07e4f22320074dd3fb28110c76f</sys_id>
+        <sys_id>99dba4834f22320074dd3fb28110c7d0</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>week_import_table.xls (Uploaded)</sys_name>
+        <sys_name>sfwy_week_import_table.csv (Uploaded)</sys_name>
         <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
-        <sys_update_name>sys_data_source_ce5ed07e4f22320074dd3fb28110c76f</sys_update_name>
+        <sys_update_name>sys_data_source_99dba4834f22320074dd3fb28110c7d0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 03:55:32</sys_updated_on>
+        <sys_updated_on>2017-05-09 23:32:59</sys_updated_on>
         <table_name/>
         <type>File</type>
         <use_integrated_authentication>false</use_integrated_authentication>

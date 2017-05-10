@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="sfwy_week_import_table" max_length="40" name="x_71876_set_weekly_sfwy_week_import_table" type="collection">
+        <element attributes="import_attribute_name=FROM_DATE,edge_encryption_enabled=true" label="FROM_DATE" max_length="40" name="u_from_date" type="string"/>
+        <element attributes="import_attribute_name=TO_DATE,edge_encryption_enabled=true" label="TO_DATE" max_length="40" name="u_to_date" type="string"/>
+        <element attributes="import_attribute_name=WEEK_NUM,edge_encryption_enabled=true" audit="true" display="true" label="WEEK_NUM" max_length="40" name="u_week_num" text_index="true" type="string"/>
+        <element attributes="import_attribute_name=YEAR,edge_encryption_enabled=true" label="YEAR" max_length="40" name="u_year" type="string"/>
+    </element>
+</database>

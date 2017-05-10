@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="2932304f4f22320074dd3fb28110c726" sys_domain="global" table="x_71876_set_weekly_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-10 00:00:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2132304f4f22320074dd3fb28110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_71876_set_weekly_task" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">2932304f4f22320074dd3fb28110c726</sys_ui_form>
+            <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-10 00:00:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-10 00:00:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d32304f4f22320074dd3fb28110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_71876_set_weekly_task" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">2932304f4f22320074dd3fb28110c726</sys_ui_form>
+            <sys_ui_section caption="Work Notes" display_value="Work Notes" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">6532304f4f22320074dd3fb28110c725</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-10 00:00:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_71876_set_weekly_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-10 00:00:49</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2932304f4f22320074dd3fb28110c726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_71876_set_weekly_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2932304f4f22320074dd3fb28110c726</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-10 00:00:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
