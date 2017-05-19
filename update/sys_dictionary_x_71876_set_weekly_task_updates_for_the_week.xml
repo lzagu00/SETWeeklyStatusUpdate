@@ -54,15 +54,15 @@
         <sys_created_on>2017-05-09 23:51:26</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>e4ff28cb4f22320074dd3fb28110c756</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Updates for the week</sys_name>
         <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
         <sys_update_name>sys_dictionary_x_71876_set_weekly_task_updates_for_the_week</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-10 00:47:30</sys_updated_on>
+        <sys_updated_by>lzagu00.sa</sys_updated_by>
+        <sys_updated_on>2017-05-19 02:43:22</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>true</text_index>
         <unique>false</unique>

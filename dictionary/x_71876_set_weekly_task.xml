@@ -12,9 +12,9 @@
                 <element label="User Experience" value="process_analyst"/>
             </choice>
         </element>
-        <element label="Completed Date" max_length="40" name="completed_date" type="glide_date"/>
+        <element audit="true" label="Completed Date" max_length="40" name="completed_date" text_index="true" type="glide_date"/>
         <element audit="true" label="Description" max_length="4000" name="description" text_index="true" type="string"/>
-        <element choice="1" display="true" label="Effort" mandatory="true" max_length="40" name="effort" type="choice">
+        <element audit="true" choice="1" label="Effort" mandatory="true" max_length="40" name="effort" text_index="true" type="choice">
             <choice/>
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -33,8 +33,8 @@
         <element audit="true" label="Target Date" mandatory="true" max_length="40" name="target_date" text_index="true" type="glide_date"/>
         <element audit="true" label="Task Name" mandatory="true" max_length="255" name="task_name" text_index="true" type="string"/>
         <element audit="true" label="Updates for the week" max_length="4000" name="updates_for_the_week" text_index="true" type="string"/>
-        <element audit="true" label="Week Reference" mandatory="true" max_length="32" name="week_reference" reference="x_71876_set_weekly_task_week" text_index="true" type="reference"/>
-        <element label="Work Notes" max_length="4000" name="work_notes" type="journal"/>
+        <element audit="true" display="true" label="Week Reference" mandatory="true" max_length="32" name="week_reference" reference="x_71876_set_weekly_task_week" text_index="true" type="reference"/>
+        <element audit="true" label="Work Notes" max_length="4000" name="work_notes" text_index="true" type="journal"/>
         <index name="index">
             <element name="week_reference"/>
         </index>
