@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Task activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_71876_set_weekly_task_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>lzagu00.sa</sys_created_by>
+        <sys_created_on>2017-05-19 02:46:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fe8e63354fb2320074dd3fb28110c7a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_71876_set_weekly_task_activity.fields</sys_name>
+        <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
+        <sys_update_name>sys_properties_fe8e63354fb2320074dd3fb28110c7a5</sys_update_name>
+        <sys_updated_by>lzagu00.sa</sys_updated_by>
+        <sys_updated_on>2017-05-19 02:46:56</sys_updated_on>
+        <type>string</type>
+        <value>number,week_reference,area,effort,task_name,description,updates_for_the_week,target_date,completed_date,status,work_notes,sys_created_on,sys_created_by</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe8e63354fb2320074dd3fb28110c7a5"/>
+</record_update>
