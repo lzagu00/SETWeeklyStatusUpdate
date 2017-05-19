@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>area</field>
+        <global>true</global>
+        <messages/>
+        <name>Set Effort field Choice Value</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (newValue === 'admin') {
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','admin_training','Admin – Training/Seminar (This is for Web based training, Classroom based training, Virtual training, Echo sessions, Seminars, etc)');
+		g_form.addOption('effort','admin_meeting','Admin – Meeting (This is for 1:1, Staff, Team, All Hands, Town Hall, etc)');
+		g_form.addOption('effort','admin_adhoc','Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)');
+	}else if(newValue === 'process_analyst'){
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','','Application Banding');
+		g_form.addOption('effort','','Incident Management');
+		g_form.addOption('effort','','Change Management');
+		g_form.addOption('effort','','Problem Management');
+		g_form.addOption('effort','','Knowledge Management');
+		g_form.addOption('effort','','Service Transition');
+		g_form.addOption('effort','','Operational Handbook');
+	}else if(newValue === 'product_analyst'){
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','service_transition','Service Transition');
+	}else if(newValue === 'analytics_and_dashboard_reporting'){
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','','Resource Utilization Tool');
+		g_form.addOption('effort','sdg_weekly_ops_deck','SDG Weekly Ops Deck');
+		g_form.addOption('effort','is_weekly_ops_deck','IS Weekly Ops Deck');
+		g_form.addOption('effort','sdg_dashboard','SDG Dashboard');
+		g_form.addOption('effort','is_dashboard','IS Dashboard');
+		g_form.addOption('effort','snow_dev_table_access','SNOW Development Table Access');
+		g_form.addOption('effort','teradata_dev_access','Teradata Dev Access');
+	}else if(newValue === 'communications_and_training'){
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','snow_istanbul','SNOW Istanbul (UI16)');
+		g_form.addOption('effort','snow_ui17','SNOW (UI17)');
+		g_form.addOption('effort','scripting_course_outline_creations_update','Scripting and Course Outline Creations and Update');
+	}else if(newValue === 'automation'){
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','top5_automation_init','Top 5 Automation Initiatives');
+		g_form.addOption('effort','non_top5_automation_init','Non Top 5 Automation Initiatives');
+		g_form.addOption('effort','snow_dev_db_access','SNOW Development Database Access');
+	}else if(newValue === 'automation'){
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','top5_automation_init','Top 5 Automation Initiatives');
+		g_form.addOption('effort','non_top5_automation_init','Non Top 5 Automation Initiatives');
+		g_form.addOption('effort','snow_dev_db_access','SNOW Development Database Access');
+	}else if(newValue === 'project'){
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','atlas_portal','ATLAS Portal');
+		g_form.addOption('effort','l1_l3_assessment','L1-L3 IS Assessment');
+		g_form.addOption('effort','mfs_portal','MFS Portal');
+		g_form.addOption('effort','is_portal','Infrastructure Services Portal');
+		
+	}
+	else{
+		g_form.clearOptions('effort');
+		g_form.addOption('effort','none','--None--');
+	}
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>lzagu00.sa</sys_created_by>
+        <sys_created_on>2017-05-18 23:04:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba3b72bd4f32320074dd3fb28110c7fd</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Set Effort field Choice Value</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
+        <sys_update_name>sys_script_client_ba3b72bd4f32320074dd3fb28110c7fd</sys_update_name>
+        <sys_updated_by>lzagu00.sa</sys_updated_by>
+        <sys_updated_on>2017-05-19 00:47:25</sys_updated_on>
+        <table>x_71876_set_weekly_task</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
