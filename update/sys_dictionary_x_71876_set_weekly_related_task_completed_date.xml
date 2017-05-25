@@ -37,7 +37,7 @@
         <name>x_71876_set_weekly_related_task</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -54,7 +54,7 @@
         <sys_created_on>2017-05-25 04:43:46</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>4fb2833f4f32320074dd3fb28110c7ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Completed Date</sys_name>
         <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
         <sys_policy/>
@@ -62,7 +62,7 @@
         <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
         <sys_update_name>sys_dictionary_x_71876_set_weekly_related_task_completed_date</sys_update_name>
         <sys_updated_by>lzagu00.sa</sys_updated_by>
-        <sys_updated_on>2017-05-25 04:43:46</sys_updated_on>
+        <sys_updated_on>2017-05-25 04:47:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
