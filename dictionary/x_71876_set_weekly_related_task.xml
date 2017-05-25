@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Related Task" max_length="40" name="x_71876_set_weekly_related_task" type="collection">
-        <element display="true" label="Completed Date" max_length="40" name="completed_date" type="glide_date"/>
+        <element label="Completed Date" max_length="40" name="completed_date" type="glide_date"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element audit="true" label="Parent Task" mandatory="true" max_length="32" name="parent_task" reference="x_71876_set_weekly_task" text_index="true" type="reference"/>
+        <element audit="true" display="true" label="Parent Task" mandatory="true" max_length="32" name="parent_task" reference="x_71876_set_weekly_task" text_index="true" type="reference"/>
         <element label="Related Task Description" mandatory="true" max_length="4000" name="related_task_description" type="string"/>
         <element choice="1" label="Related Task Status" mandatory="true" max_length="40" name="related_task_status" type="choice">
             <choice>
