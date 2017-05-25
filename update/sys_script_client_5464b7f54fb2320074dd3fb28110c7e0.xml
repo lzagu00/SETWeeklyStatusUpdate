@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>area</field>
+        <global>true</global>
+        <messages/>
+        <name>Set Choices Values to Area field</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>lzagu00.sa</sys_created_by>
+        <sys_created_on>2017-05-19 03:13:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5464b7f54fb2320074dd3fb28110c7e0</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Set Choices Values to Area field</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
+        <sys_update_name>sys_script_client_5464b7f54fb2320074dd3fb28110c7e0</sys_update_name>
+        <sys_updated_by>lzagu00.sa</sys_updated_by>
+        <sys_updated_on>2017-05-19 05:04:30</sys_updated_on>
+        <table>x_71876_set_weekly_task</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

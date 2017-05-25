@@ -4,122 +4,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>177eaa2d4f72320074dd3fb28110c78b</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>42338b3f4f32320074dd3fb28110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>parent_task.task_name</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>977eaa2d4f72320074dd3fb28110c78b</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>0a338b3f4f32320074dd3fb28110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>parent_task.status</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>1b7eaa2d4f72320074dd3fb28110c78b</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>8a338b3f4f32320074dd3fb28110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>parent_task.area</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>9b7eaa2d4f72320074dd3fb28110c78b</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>0e338b3f4f32320074dd3fb28110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>parent_task.completed_date</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>1f7eaa2d4f72320074dd3fb28110c78b</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>8e338b3f4f32320074dd3fb28110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>parent_task.sys_created_by</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>9f7eaa2d4f72320074dd3fb28110c78b</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>02338b3f4f32320074dd3fb28110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>related_task_description</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>137eaa2d4f72320074dd3fb28110c78c</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>82338b3f4f32320074dd3fb28110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>related_task_status</element>
-            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f7eaa2d4f72320074dd3fb28110c78a</list_id>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
-            <sys_id>937eaa2d4f72320074dd3fb28110c78c</sys_id>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>06338b3f4f32320074dd3fb28110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>target_date</element>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>86338b3f4f32320074dd3fb28110c794</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>completed_date</element>
+            <list_id display_value="x_71876_set_weekly_related_task" element="NULL" name="x_71876_set_weekly_related_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">46338b3f4f32320074dd3fb28110c792</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
+            <sys_id>0a338b3f4f32320074dd3fb28110c794</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -133,11 +163,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-18 03:28:36</sys_created_on>
+            <sys_created_on>2017-05-25 04:45:31</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9f7eaa2d4f72320074dd3fb28110c78a</sys_id>
+            <sys_id>46338b3f4f32320074dd3fb28110c792</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_71876_set_weekly_related_task</sys_name>
             <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
@@ -146,7 +176,7 @@
             <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
             <sys_update_name>sys_ui_list_x_71876_set_weekly_related_task_null</sys_update_name>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-18 03:28:36</sys_updated_on>
+            <sys_updated_on>2017-05-25 04:45:31</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

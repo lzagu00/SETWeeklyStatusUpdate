@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="live_feed=true" audit="true" label="Task" max_length="40" name="x_71876_set_weekly_task" type="collection">
-        <element audit="true" choice="1" label="Area" mandatory="true" max_length="40" name="area" text_index="true" type="choice">
+        <element audit="true" choice="1" choice_field="class_name" label="Area" mandatory="true" max_length="40" name="area" text_index="true" type="choice">
             <choice>
                 <element label="Admin" value="admin"/>
                 <element label="Analytics and Dashboard Reporting" value="analytics_and_dashboard_reporting"/>
