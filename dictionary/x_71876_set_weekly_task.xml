@@ -14,10 +14,43 @@
         </element>
         <element audit="true" label="Completed Date" max_length="40" name="completed_date" text_index="true" type="glide_date"/>
         <element audit="true" label="Description" max_length="4000" name="description" text_index="true" type="string"/>
-        <element audit="true" choice="1" label="Effort" mandatory="true" max_length="40" name="effort" text_index="true" type="choice">
-            <choice/>
+        <element audit="true" choice="1" dependent="area" dependent_on_field="area" label="Effort" mandatory="true" max_length="40" name="effort" text_index="true" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="admin" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
+                <element dependent_value="admin" label="Admin – Meeting (This is for 1:1, Staff, Team, All Hands, Town Hall, etc)" value="admin_meeting"/>
+                <element dependent_value="admin" label="Admin – Training/Seminar (This is for Web based training, Classroom based training, Virtual training" value="admin_training"/>
+                <element dependent_value="process_analyst" label="Application Banding" value="app_banding"/>
+                <element dependent_value="project" label="ATLAS Portal" value="atlas_portal"/>
+                <element dependent_value="process_analyst" label="Change Management" value="chg_management"/>
+                <element dependent_value="communications_and_training" label="e-Learning and Development" value="e_learning_development"/>
+                <element dependent_value="process_analyst" label="Incident Management" value="inc_management"/>
+                <element dependent_value="project" label="Infrastructure Services Portal" value="is_portal"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="IS Dashboard" value="is_dashboard"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="IS Weekly Ops Deck" value="is_weekly_ops_deck"/>
+                <element dependent_value="process_analyst" label="Knowledge Management" value="knowledge_management"/>
+                <element dependent_value="project" label="L1-L3 IS Assessment" value="l1_l3_assessment"/>
+                <element dependent_value="project" label="MFS Portal" value="mfs_portal"/>
+                <element dependent_value="automation" label="Non Top 5 Automation Initiatives" value="non_top5_automation_init"/>
+                <element dependent_value="process_analyst" label="Operational Handbook" value="operational_handbook"/>
+                <element dependent_value="project" label="Others" value="others"/>
+                <element dependent_value="admin" label="Others" value="others"/>
+                <element dependent_value="process_analyst" label="Problem Management" value="prob_management"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="Resource Utilization Tool" value="resource_utilization_tool"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="SDG Dashboard" value="sdg_dashboard"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="SDG Weekly Ops Deck" value="sdg_weekly_ops_deck"/>
+                <element dependent_value="product_analyst" label="Service Transition" value="service_transition"/>
+                <element dependent_value="process_analyst" label="Service Transition" value="service_transition"/>
+                <element dependent_value="automation" label="SNOW Development Database Access" value="snow_dev_db_access"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="SNOW Development Table Access" value="snow_dev_table_access"/>
+                <element dependent_value="communications_and_training" label="SNOW Release Notes" value="snow_release_notes"/>
+                <element dependent_value="communications_and_training" label="SNOW Sprint KB Articles" value="snow_sprint_kb_articles"/>
+                <element dependent_value="communications_and_training" label="SNOW User Guides" value="snow_user_guides"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="Teradata Dev Access" value="teradata_dev_access"/>
+                <element dependent_value="automation" label="Top 5 Automation Initiatives" value="top5_automation_init"/>
+            </choice>
         </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Project ID" max_length="15" name="project_id" type="string"/>
         <element audit="true" choice="1" label="Status" mandatory="true" max_length="40" name="status" text_index="true" type="choice">
             <choice>
                 <element label="Cancelled" value="cancelled"/>
@@ -31,7 +64,7 @@
         </element>
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element audit="true" label="Target Date" mandatory="true" max_length="40" name="target_date" text_index="true" type="glide_date"/>
-        <element audit="true" display="true" label="Task Name" mandatory="true" max_length="255" name="task_name" text_index="true" type="string"/>
+        <element audit="true" label="Task Name" mandatory="true" max_length="255" name="task_name" text_index="true" type="string"/>
         <element audit="true" label="Updates for the week" max_length="4000" name="updates_for_the_week" text_index="true" type="string"/>
         <element audit="true" label="Week Reference" mandatory="true" max_length="32" name="week_reference" reference="x_71876_set_weekly_task_week" text_index="true" type="reference"/>
         <element audit="true" label="Work Notes" max_length="4000" name="work_notes" text_index="true" type="journal"/>

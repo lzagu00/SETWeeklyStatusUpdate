@@ -21,8 +21,8 @@
         <default_value/>
         <defaultsort/>
         <delete_roles/>
-        <dependent/>
-        <dependent_on_field/>
+        <dependent>area</dependent>
+        <dependent_on_field>area</dependent_on_field>
         <display>false</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
@@ -54,7 +54,7 @@
         <sys_created_on>2017-05-18 23:02:07</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>b9ca3ef94f32320074dd3fb28110c7b9</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Effort</sys_name>
         <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
         <sys_policy/>
@@ -62,11 +62,11 @@
         <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
         <sys_update_name>sys_dictionary_x_71876_set_weekly_task_effort</sys_update_name>
         <sys_updated_by>lzagu00.sa</sys_updated_by>
-        <sys_updated_on>2017-05-19 02:42:34</sys_updated_on>
+        <sys_updated_on>2017-05-26 05:00:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>true</text_index>
         <unique>false</unique>
-        <use_dependent_field>false</use_dependent_field>
+        <use_dependent_field>true</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>

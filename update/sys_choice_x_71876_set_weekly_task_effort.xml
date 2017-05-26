@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="effort" table="x_71876_set_weekly_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>admin</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:40:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bbbc09c4f83320074dd3fb28110c703</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:41:42</sys_updated_on>
+            <value>admin_adhoc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>admin</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – Meeting (This is for 1:1, Staff, Team, All Hands, Town Hall, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:40:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaab809c4f83320074dd3fb28110c7de</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:41:47</sys_updated_on>
+            <value>admin_meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>admin</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – Training/Seminar (This is for Web based training, Classroom based training, Virtual training</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:39:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f15bcc5c4f83320074dd3fb28110c79b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:39:50</sys_updated_on>
+            <value>admin_training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Banding</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:41:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ddbc09c4f83320074dd3fb28110c709</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:42:16</sys_updated_on>
+            <value>app_banding</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>project</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ATLAS Portal</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:54:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82ce0cdc4f83320074dd3fb28110c7c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:54:29</sys_updated_on>
+            <value>atlas_portal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Change Management</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:43:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d5c009c4f83320074dd3fb28110c760</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:45:21</sys_updated_on>
+            <value>chg_management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>communications_and_training</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>e-Learning and Development</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:51:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>881e84dc4f83320074dd3fb28110c7da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:51:18</sys_updated_on>
+            <value>e_learning_development</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident Management</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:43:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c14c049c4f83320074dd3fb28110c735</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:45:24</sys_updated_on>
+            <value>inc_management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IS Dashboard</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:49:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>029d80dc4f83320074dd3fb28110c7b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:49:16</sys_updated_on>
+            <value>is_dashboard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>project</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Infrastructure Services Portal</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:55:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>570fccdc4f83320074dd3fb28110c76f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:55:30</sys_updated_on>
+            <value>is_portal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IS Weekly Ops Deck</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:48:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>566d0c9c4f83320074dd3fb28110c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:48:34</sys_updated_on>
+            <value>is_weekly_ops_deck</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Knowledge Management</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:43:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f6c809c4f83320074dd3fb28110c75e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:45:14</sys_updated_on>
+            <value>knowledge_management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>project</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>L1-L3 IS Assessment</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:54:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffee48dc4f83320074dd3fb28110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:54:58</sys_updated_on>
+            <value>l1_l3_assessment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>project</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MFS Portal</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:55:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbfeccdc4f83320074dd3fb28110c7a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:55:15</sys_updated_on>
+            <value>mfs_portal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>automation</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non Top 5 Automation Initiatives</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:53:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb8e88dc4f83320074dd3fb28110c734</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:53:26</sys_updated_on>
+            <value>non_top5_automation_init</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operational Handbook</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:44:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>049cc49c4f83320074dd3fb28110c702</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:45:11</sys_updated_on>
+            <value>operational_handbook</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>project</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 05:09:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0232d8504fc3320074dd3fb28110c759</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 05:10:35</sys_updated_on>
+            <value>others</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>admin</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:41:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46cb049c4f83320074dd3fb28110c72e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:41:52</sys_updated_on>
+            <value>others</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Problem Management</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:43:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c6c049c4f83320074dd3fb28110c7b0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:45:17</sys_updated_on>
+            <value>prob_management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resource Utilization Tool</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:47:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e2d00dc4f83320074dd3fb28110c7ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:47:25</sys_updated_on>
+            <value>resource_utilization_tool</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SDG Dashboard</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:48:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a98dcc9c4f83320074dd3fb28110c7be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:48:52</sys_updated_on>
+            <value>sdg_dashboard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SDG Weekly Ops Deck</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:47:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>894dcc9c4f83320074dd3fb28110c706</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:47:41</sys_updated_on>
+            <value>sdg_weekly_ops_deck</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>product_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Transition</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:46:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3fccc9c4f83320074dd3fb28110c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:46:56</sys_updated_on>
+            <value>service_transition</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Transition</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:44:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c77c889c4f83320074dd3fb28110c704</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:45:27</sys_updated_on>
+            <value>service_transition</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>automation</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SNOW Development Database Access</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:53:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4ae84dc4f83320074dd3fb28110c7ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:53:41</sys_updated_on>
+            <value>snow_dev_db_access</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SNOW Development Table Access</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27ad40dc4f83320074dd3fb28110c798</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:49:38</sys_updated_on>
+            <value>snow_dev_table_access</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>communications_and_training</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SNOW Release Notes</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:52:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a4e84dc4f83320074dd3fb28110c798</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:52:14</sys_updated_on>
+            <value>snow_release_notes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>communications_and_training</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SNOW Sprint KB Articles</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:51:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>252e08dc4f83320074dd3fb28110c7c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:51:37</sys_updated_on>
+            <value>snow_sprint_kb_articles</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>communications_and_training</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SNOW User Guides</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:51:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e3e80dc4f83320074dd3fb28110c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:51:52</sys_updated_on>
+            <value>snow_user_guides</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teradata Dev Access</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:50:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92cd889c4f83320074dd3fb28110c758</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:50:02</sys_updated_on>
+            <value>teradata_dev_access</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>automation</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Top 5 Automation Initiatives</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 04:53:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>437e4c9c4f83320074dd3fb28110c792</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 04:53:04</sys_updated_on>
+            <value>top5_automation_init</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>effort</element>
+            <name>x_71876_set_weekly_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-05-26 03:50:27</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9130ccd44f83320074dd3fb28110c7b7</sys_id>
+            <sys_mod_count>49</sys_mod_count>
+            <sys_name>effort</sys_name>
+            <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
+            <sys_update_name>sys_choice_x_71876_set_weekly_task_effort</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-05-26 05:10:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
