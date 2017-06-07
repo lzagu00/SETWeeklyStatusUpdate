@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>b5701c104fc3320074dd3fb28110c78d</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>5fffbcc84f13320074dd3fb28110c75a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>week_reference</element>
             <position>1</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>39701c104fc3320074dd3fb28110c78d</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>dfffbcc84f13320074dd3fb28110c75a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>area</element>
             <position>2</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>b9701c104fc3320074dd3fb28110c78d</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>53ffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>effort</element>
             <position>3</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>3d701c104fc3320074dd3fb28110c78d</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>d3ffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>project_id</element>
             <position>4</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>bd701c104fc3320074dd3fb28110c78d</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>57ffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>task_name</element>
             <position>5</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>31701c104fc3320074dd3fb28110c78e</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>d7ffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>description</element>
             <position>6</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>b1701c104fc3320074dd3fb28110c78e</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>5bffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>updates_for_the_week</element>
             <position>7</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>35701c104fc3320074dd3fb28110c78e</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>dbffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>.split</element>
             <position>8</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>b5701c104fc3320074dd3fb28110c78e</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>5fffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>target_date</element>
             <position>9</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>39701c104fc3320074dd3fb28110c78e</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>dfffbcc84f13320074dd3fb28110c75b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>completed_date</element>
             <position>10</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>b9701c104fc3320074dd3fb28110c78e</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>53ffbcc84f13320074dd3fb28110c75c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>status</element>
             <position>11</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-05-26 05:01:28</sys_created_on>
-            <sys_id>3d701c104fc3320074dd3fb28110c78e</sys_id>
+            <sys_created_on>2017-06-07 00:06:20</sys_created_on>
+            <sys_id>d3ffbcc84f13320074dd3fb28110c75c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Service Enrichment Team Task Status" display_value="Service Enrichment Team Task Status" name="x_71876_set_weekly_task" sys_domain="global" view="Default view">047b6cf24f62320074dd3fb28110c7b8</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:01:28</sys_updated_on>
+            <sys_updated_on>2017-06-07 00:06:20</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
