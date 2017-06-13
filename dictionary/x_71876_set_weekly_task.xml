@@ -17,6 +17,12 @@
         <element audit="true" choice="1" dependent="area" dependent_on_field="area" label="Effort" mandatory="true" max_length="40" name="effort" text_index="true" type="choice" use_dependent_field="true">
             <choice>
                 <element dependent_value="admin" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
+                <element dependent_value="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
+                <element dependent_value="communications_and_training" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
+                <element dependent_value="process_analyst" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
+                <element dependent_value="product_analyst" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
+                <element dependent_value="project" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
+                <element dependent_value="analytics_and_dashboard_reporting" label="Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)" value="admin_adhoc"/>
                 <element dependent_value="admin" label="Admin – Meeting (This is for 1:1, Staff, Team, All Hands, Town Hall, etc)" value="admin_meeting"/>
                 <element dependent_value="admin" label="Admin – Training/Seminar (This is for Web based training, Classroom based training, Virtual training" value="admin_training"/>
                 <element dependent_value="process_analyst" label="Application Banding" value="app_banding"/>

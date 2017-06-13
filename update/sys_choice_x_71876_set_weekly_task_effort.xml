@@ -21,6 +21,120 @@
             <value>admin_adhoc</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:59:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b4a898e4f93320074dd3fb28110c7aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:59:28</sys_updated_on>
+            <value>admin_adhoc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>communications_and_training</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:59:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c6ac58e4f93320074dd3fb28110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:59:51</sys_updated_on>
+            <value>admin_adhoc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>process_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 06:00:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>827ac14e4f93320074dd3fb28110c7ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 06:00:21</sys_updated_on>
+            <value>admin_adhoc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>product_analyst</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 06:00:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d19ac14e4f93320074dd3fb28110c7af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 06:00:40</sys_updated_on>
+            <value>admin_adhoc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>project</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 06:01:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edaa4d8e4f93320074dd3fb28110c77b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 06:01:07</sys_updated_on>
+            <value>admin_adhoc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>analytics_and_dashboard_reporting</dependent_value>
+            <element>effort</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin – AdHoc (This is for Request for Supplies, Gathering of signed forms, etc)</label>
+            <language>en</language>
+            <name>x_71876_set_weekly_task</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:58:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f62ac98e4f93320074dd3fb28110c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:58:57</sys_updated_on>
+            <value>admin_adhoc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>admin</dependent_value>
             <element>effort</element>
             <hint/>
@@ -598,7 +712,7 @@
             <sys_created_on>2017-05-26 03:50:27</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_id>9130ccd44f83320074dd3fb28110c7b7</sys_id>
-            <sys_mod_count>49</sys_mod_count>
+            <sys_mod_count>55</sys_mod_count>
             <sys_name>effort</sys_name>
             <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
             <sys_policy/>
@@ -606,7 +720,7 @@
             <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
             <sys_update_name>sys_choice_x_71876_set_weekly_task_effort</sys_update_name>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-05-26 05:10:35</sys_updated_on>
+            <sys_updated_on>2017-06-13 06:01:08</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

@@ -4,47 +4,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>from_date</element>
-            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">82d9d0fa4f22320074dd3fb28110c723</list_id>
+            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f945814a4f93320074dd3fb28110c72a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-09 03:35:53</sys_created_on>
-            <sys_id>0ad9d0fa4f22320074dd3fb28110c723</sys_id>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:37:17</sys_created_on>
+            <sys_id>3545c1ca4f93320074dd3fb28110c70f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-09 03:35:53</sys_updated_on>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:37:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>to_date</element>
-            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">82d9d0fa4f22320074dd3fb28110c723</list_id>
+            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f945814a4f93320074dd3fb28110c72a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-09 03:35:53</sys_created_on>
-            <sys_id>8ad9d0fa4f22320074dd3fb28110c723</sys_id>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:37:17</sys_created_on>
+            <sys_id>b545c1ca4f93320074dd3fb28110c70f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-09 03:35:53</sys_updated_on>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:37:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>week_number</element>
-            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">82d9d0fa4f22320074dd3fb28110c723</list_id>
+            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f945814a4f93320074dd3fb28110c72a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-09 03:35:53</sys_created_on>
-            <sys_id>0ed9d0fa4f22320074dd3fb28110c723</sys_id>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:37:17</sys_created_on>
+            <sys_id>3945c1ca4f93320074dd3fb28110c70f</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-09 03:35:53</sys_updated_on>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:37:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>year</element>
+            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f945814a4f93320074dd3fb28110c72a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:37:17</sys_created_on>
+            <sys_id>b945c1ca4f93320074dd3fb28110c70f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:37:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f945814a4f93320074dd3fb28110c72a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:37:17</sys_created_on>
+            <sys_id>3d45c1ca4f93320074dd3fb28110c70f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:37:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_71876_set_weekly_task_week" element="NULL" name="x_71876_set_weekly_task_week" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f945814a4f93320074dd3fb28110c72a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:37:17</sys_created_on>
+            <sys_id>bd45c1ca4f93320074dd3fb28110c70f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:37:17</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -57,12 +102,12 @@
             <relationship/>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-09 03:35:53</sys_created_on>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-06-13 05:37:17</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>82d9d0fa4f22320074dd3fb28110c723</sys_id>
+            <sys_id>f945814a4f93320074dd3fb28110c72a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_71876_set_weekly_task_week</sys_name>
             <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
@@ -70,8 +115,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
             <sys_update_name>sys_ui_list_x_71876_set_weekly_task_week_null</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-09 03:35:53</sys_updated_on>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:37:17</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
