@@ -28,6 +28,8 @@
                 <element dependent_value="process_analyst" label="Application Banding" value="app_banding"/>
                 <element dependent_value="project" label="ATLAS Portal" value="atlas_portal"/>
                 <element dependent_value="process_analyst" label="Change Management" value="chg_management"/>
+                <element dependent_value="communications_and_training" label="Conduct Trainings and Brown bag" value="con_training_brownbag"/>
+                <element dependent_value="communications_and_training" label="Create ITSM Communications email" value="create_itsm_com_email"/>
                 <element dependent_value="communications_and_training" label="e-Learning and Development" value="e_learning_development"/>
                 <element dependent_value="process_analyst" label="Incident Management" value="inc_management"/>
                 <element dependent_value="project" label="Infrastructure Services Portal" value="is_portal"/>
