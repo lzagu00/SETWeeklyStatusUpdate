@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Context Sensitive Analytics - Incidents">af43de3c4f60030074dd3fb28110c712</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>681b365ec0a80164000fb0b05854a0cd</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>lzagu00.sa</sys_created_by>
+        <sys_created_on>2017-08-10 17:24:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b743de3c4f60030074dd3fb28110c71c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>681b365ec0a80164000fb0b05854a0cd</sys_name>
+        <sys_package display_value="SET Weekly Status Update" source="x_71876_set_weekly">fe3c8cf24f22320074dd3fb28110c77e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SET Weekly Status Update">fe3c8cf24f22320074dd3fb28110c77e</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_b743de3c4f60030074dd3fb28110c71c</sys_update_name>
+        <sys_updated_by>lzagu00.sa</sys_updated_by>
+        <sys_updated_on>2017-08-10 17:24:17</sys_updated_on>
+        <type>3</type>
+        <user display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</user>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

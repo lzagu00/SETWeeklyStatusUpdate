@@ -52,6 +52,7 @@
                 <element dependent_value="analytics_and_dashboard_reporting" label="SNOW Development Table Access" value="snow_dev_table_access"/>
                 <element dependent_value="communications_and_training" label="SNOW Release Notes" value="snow_release_notes"/>
                 <element dependent_value="communications_and_training" label="SNOW Sprint KB Articles" value="snow_sprint_kb_articles"/>
+                <element dependent_value="communications_and_training" label="SNOW UAT Testing" value="snow_uat_testing"/>
                 <element dependent_value="communications_and_training" label="SNOW User Guides" value="snow_user_guides"/>
                 <element dependent_value="analytics_and_dashboard_reporting" label="Teradata Dev Access" value="teradata_dev_access"/>
                 <element dependent_value="automation" label="Top 5 Automation Initiatives" value="top5_automation_init"/>
